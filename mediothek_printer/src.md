@@ -6,7 +6,7 @@
 ![Check the top bar](wlan.png)
 2. Open up System Settings
 3. Select "Drucker & Scanner"
-![You'll find "Drucker & Scanner" at the bottom of the settings list](settings.png)
+![You'll find 'Drucker & Scanner' at the bottom of the settings list](settings.png)
 4. Select "Drucker, Scanner oder Fax hinzufügen"
 ![You'll find it underneath "Faxgeräte"](add.png)
 5. *this is really fucking stupid* Right-Click on the TOP BAR WITH THE ICONS and select "Symbolleiste anpassen"
